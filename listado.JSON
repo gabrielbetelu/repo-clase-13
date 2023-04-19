@@ -1,0 +1,20 @@
+[
+    {
+        "nombre" : "Juan",
+        "apellido" : "Perez",
+        "dni" : 12345678,
+        "cumoleanios" : "17-4"
+    },
+    {
+        "nombre" : "Lucia",
+        "apellido" : "Gomez",
+        "dni" : 23456789,
+        "cumoleanios" : "12-8"
+    },
+    {
+        "nombre" : "Pedro",
+        "apellido" : "Tellp",
+        "dni" : 23452345,
+        "cumoleanios" : "31-1"
+    }
+]
